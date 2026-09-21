@@ -4,28 +4,20 @@
 
 ## ✦ A little about me
 
-- Based in İstanbul, Türkiye
-- Building web applications with **C#**, **.NET**, and **ASP.NET Core**
-- Interested in backend architecture, testing, and reliable systems
-- I care about software that is clear for both its users and its developers
+- I enjoy working with **C++** and **Python**.
+- I recently developed my **first C#/.NET project**.
+- I like understanding the logic behind what I build and learning through hands-on projects.
 
-## Tech I work with
+## Languages & tools
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-6C4AB6?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-  <img src="https://img.shields.io/badge/SQLite-0F766E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-E76F51?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E76F51?style=flat-square&logo=git&logoColor=white)
+
+Recently explored in a project: **C# · .NET · ASP.NET Core**
 
 ## How I like to work
 
-> Understand the problem → keep the design clear → build → test → improve.
+> Stay curious. Build, learn, and make the next version better.
 
-I enjoy turning real-world workflows into practical software and learning how each part of a system works together.
-
-<p align="center">
-  <sub>Thanks for stopping by ✦</sub>
-</p>
+<p align="center"><sub>Thanks for stopping by ✦</sub></p>
